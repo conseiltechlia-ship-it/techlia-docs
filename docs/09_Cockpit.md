@@ -1,4 +1,0 @@
-# 09 — Cockpit
-
-## À compléter
-Tableau de bord de pilotage : KPIs suivis, outils de reporting, fréquence de revue.
