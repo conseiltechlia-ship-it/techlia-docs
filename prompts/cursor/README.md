@@ -1,1 +1,0 @@
-Prompts réutilisables pour Cursor
